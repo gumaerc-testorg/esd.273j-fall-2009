@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: aff29b72-3579-8254-f176-cdd1cfab4e07
 ---
@@ -42,8 +45,8 @@ A-1) A London based company purchases two raw materials from the same supplier. 
 
 Under the coordinated control, let _T_ be the time in years between replenishments. Find the best value of _T_ and the order quantity for each item. Assume shortage is not allowed.
 
-A-2) In the classical EOQ model assumes that when we order _Q_ units, we receive our order in two parts. The first part arrives immediately and contains α_Q_ (0 < α ≤ 1) and the second part arrives _T_ units of time after the first part and contains the rest of the order ((1−α)_Q_). If shortage is not allowed what is the optimal order quantity, _Q_?
+A-2) In the classical EOQ model assumes that when we order _Q_ units, we receive our order in two parts. The first part arrives immediately and contains α_Q_ (0 \< α ≤ 1) and the second part arrives _T_ units of time after the first part and contains the rest of the order ((1−α)_Q_). If shortage is not allowed what is the optimal order quantity, _Q_?
 
 A-3) Prove that the worst-case bound for heuristic developed in class for the single-warehouse multi-item model is tight. That is, construct an example for which the cost of the heuristic is twice the cost of the optimal solution.
 
-A-4) Consider a multi-item model with _n_ products, each of which with parameters, _Di_, _Ki_ and _hi_. Let αi be the space taken by one unit of product i. The company needs to lease space and _ϒ_ is the annual leasing cost. The objective is minimize the long run average inventory carrying and ordering cost plus a leasing cost proportional to the space needed for the warehouse. Develop a heuristic and analyze its worst-case performance.
+A-4) Consider a multi-item model with _n_ products, each of which with parameters, _D{{< sub "i" >}}_, _K{{< sub "i" >}}_ and _h{{< sub "i" >}}_. Let αi be the space taken by one unit of product i. The company needs to lease space and _ϒ_ is the annual leasing cost. The objective is minimize the long run average inventory carrying and ordering cost plus a leasing cost proportional to the space needed for the warehouse. Develop a heuristic and analyze its worst-case performance.
