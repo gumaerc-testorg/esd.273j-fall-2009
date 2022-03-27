@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb5fe644-d042-c8e6-85b9-a0bf185f444b
 resourcetype: Document
 title: Newsboy Model with Pricing
 uid: 4d3fed21-1207-2d4f-a9b1-70631ae65316

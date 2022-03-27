@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb5fe644-d042-c8e6-85b9-a0bf185f444b
 resourcetype: Document
 title: Issues in Supply Chain Strategy
 uid: 665736b7-449c-582a-2d8d-e157d2cff466

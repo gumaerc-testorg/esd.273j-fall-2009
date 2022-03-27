@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: aff29b72-3579-8254-f176-cdd1cfab4e07
 resourcetype: Document
 title: Power-of-Two
 uid: 0f03d093-a338-9dda-7b43-349b104dd524

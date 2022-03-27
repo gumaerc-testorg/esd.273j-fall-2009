@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb5fe644-d042-c8e6-85b9-a0bf185f444b
 resourcetype: Document
 title: Inventory and EOQ Models
 uid: c2bd3ea2-23e9-be6b-13ab-01c2642d2009

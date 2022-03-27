@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb5fe644-d042-c8e6-85b9-a0bf185f444b
 resourcetype: Document
 title: Dynamic Economic Lot Sizing Model
 uid: 8c56e1d0-cd08-c903-4a85-b72f35ab45a8

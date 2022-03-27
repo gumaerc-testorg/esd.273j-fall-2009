@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb5fe644-d042-c8e6-85b9-a0bf185f444b
 resourcetype: Document
 title: Introduction to Supply Chain Management
 uid: fefd549a-3b24-d201-0aa4-314f4f3a7af9

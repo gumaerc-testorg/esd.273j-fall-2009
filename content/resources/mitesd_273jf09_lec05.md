@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: eb5fe644-d042-c8e6-85b9-a0bf185f444b
 resourcetype: Document
 title: Introduction to Stochastic Inventory Models and Supply Contracts
 uid: 34e5cfa8-3eac-1bf9-7113-74828c260a22
