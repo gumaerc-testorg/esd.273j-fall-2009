@@ -6,6 +6,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/0f03d093
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Power-of-Two
 uid: 0f03d093-a338-9dda-7b43-349b104dd524
 ---
 A case study on a retail company that has a central warehouse in the Boston area.
-

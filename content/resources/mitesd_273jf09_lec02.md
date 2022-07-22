@@ -7,6 +7,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/c2bd3ea2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: Inventory and EOQ Models
 uid: c2bd3ea2-23e9-be6b-13ab-01c2642d2009
 ---
 Lecture presentation on inventory, reasons for holding inventory, dimensions of inventory models, EOQ-type models, the basic model, the EPQ model, planned backorders, and quantity discounts.
-

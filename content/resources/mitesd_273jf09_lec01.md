@@ -5,6 +5,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/fefd549a
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Introduction to Supply Chain Management
 uid: fefd549a-3b24-d201-0aa4-314f4f3a7af9
 ---
 Introductory lecture presentation on supply chain management.
-

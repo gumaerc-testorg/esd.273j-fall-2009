@@ -6,6 +6,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/8c56e1d0
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Dynamic Economic Lot Sizing Model
 uid: 8c56e1d0-cd08-c903-4a85-b72f35ab45a8
 ---
 Lecture presentation on the dynamic economic lot sizing (DELS) model, the need for DELS, DELS without capacity constraints, and DELS with capacity constraints.
-

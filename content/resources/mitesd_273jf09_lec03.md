@@ -5,6 +5,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/665736b7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Issues in Supply Chain Strategy
 uid: 665736b7-449c-582a-2d8d-e157d2cff466
 ---
 Lecture presentation on issues in supply chain strategy.
-

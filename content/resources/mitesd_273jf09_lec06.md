@@ -5,6 +5,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/4d3fed21
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Newsboy Model with Pricing
 uid: 4d3fed21-1207-2d4f-a9b1-70631ae65316
 ---
 Lecture presentation on the newsboy model with pricing.
-

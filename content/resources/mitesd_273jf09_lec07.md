@@ -6,6 +6,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/7c024f2f
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Analysis of Inventory Models with Limited Demand Information
 uid: 7c024f2f-9223-e821-0895-00803d96f580
 ---
 Lecture presentation on analysis of inventory models with limited demand information, supply chains, moving average forecasting, and the bullwhip effect.
-

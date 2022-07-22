@@ -6,6 +6,7 @@ file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/34e5cfa8
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Introduction to Stochastic Inventory Models and Supply Contracts
 uid: 34e5cfa8-3eac-1bf9-7113-74828c260a22
 ---
 Lecture presentation on stochastic inventory models, supply contracts, the effect of demand uncertainty, and practical issues in inventory management.
-
