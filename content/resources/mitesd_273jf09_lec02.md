@@ -4,6 +4,7 @@ description: Lecture presentation on inventory, reasons for holding inventory, d
   of inventory models, EOQ-type models, the basic model, the EPQ model, planned backorders,
   and quantity discounts.
 file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/c2bd3ea223e9be6b13ab01c2642d2009_MITESD_273JF09_lec02.pdf
+file_size: 179833
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
