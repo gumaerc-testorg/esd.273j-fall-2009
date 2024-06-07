@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture presentation on stochastic inventory models, supply contracts,
   the effect of demand uncertainty, and practical issues in inventory management.
 file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/34e5cfa83eac1bf9711374828c260a22_MITESD_273JF09_lec05.pdf
+file_size: 818988
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

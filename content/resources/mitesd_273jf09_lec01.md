@@ -2,6 +2,7 @@
 content_type: resource
 description: Introductory lecture presentation on supply chain management.
 file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/fefd549a3b24d2010aa4314f4f3a7af9_MITESD_273JF09_lec01.pdf
+file_size: 485111
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
