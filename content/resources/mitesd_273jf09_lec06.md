@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture presentation on the newsboy model with pricing.
 file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/4d3fed2112072d4fa9b170631ae65316_MITESD_273JF09_lec06.pdf
+file_size: 292524
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
