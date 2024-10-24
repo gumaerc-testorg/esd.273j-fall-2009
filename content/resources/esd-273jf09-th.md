@@ -5,7 +5,7 @@ description: This image illustrates the supply chain. Supply Chain Management is
   stores so that merchandise is produced and distributed in the right quantities,
   to the right locations and at the right time, and so as to minimize total system
   cost subject to satisfying service requirements. (Image by MIT OpenCourseWare.)
-file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/15f1d0e22e6fe65a9efb1b8092fc27e0_esd-273jf09-th.jpg
+file: /ol-ocw-studio-app/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/15f1d0e22e6fe65a9efb1b8092fc27e0_esd-273jf09-th.jpg
 file_size: 11219
 file_type: image/jpeg
 image_metadata:
