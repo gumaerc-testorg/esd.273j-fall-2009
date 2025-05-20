@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture presentation on the dynamic economic lot sizing (DELS) model,
   the need for DELS, DELS without capacity constraints, and DELS with capacity constraints.
-file: /ol-ocw-studio-app/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/8c56e1d0cd08c9034a85b72f35ab45a8_MITESD_273JF09_lec04.pdf
+file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/8c56e1d0cd08c9034a85b72f35ab45a8_MITESD_273JF09_lec04.pdf
 file_size: 914463
 file_type: application/pdf
 learning_resource_types:
