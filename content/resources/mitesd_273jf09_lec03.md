@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture presentation on issues in supply chain strategy.
-file: /courses/esd-273j-logistics-and-supply-chain-management-fall-2009/665736b7449c582a2d8de157d2cff466_MITESD_273JF09_lec03.pdf
+file: /ol-ocw-studio-app/courses/esd-273j-logistics-and-supply-chain-management-fall-2009/665736b7449c582a2d8de157d2cff466_MITESD_273JF09_lec03.pdf
 file_size: 852508
 file_type: application/pdf
 learning_resource_types:
